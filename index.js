@@ -17,7 +17,7 @@ var midPort = app.listen(port, function () {
     console.log('Node.js listening on port ' + port);
 })
 
-var io = require('socket.io').listen(midPort);
+var io = require('socket.io')(midPort);
 // set up socket connection
 io.sockets.on('connection', function (socket) {
     socket.emit('message', { message: 'Welcome to the Real Time Web Chat' });
