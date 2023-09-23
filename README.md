@@ -2,7 +2,9 @@
 Basic real time chat application with;
 * Node.js 
 * socket.io
-* ExpressJS
+* ExpressJS 
+
+A basic real time chat application project for student who wants to become a developer.
 
 Difficulty :full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon::new_moon::new_moon:
 
