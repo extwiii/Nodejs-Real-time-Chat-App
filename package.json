@@ -1,5 +1,5 @@
 {
-  "name": "realtimechat",
+  "name": "c",
   "version": "1.0.0",
   "description": "Real Time Chat With NodeJS, Socket.io and ExpressJS",
   "main": "index.js",
@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/extwiii/Nodejs-Real-time-Chat-App-#readme",
   "dependencies": {
-    "express": "^4.14.0",
+    "express": "^4.18.2",
     "jade": "^1.11.0",
     "socket.io": "^1.5.0"
   }
